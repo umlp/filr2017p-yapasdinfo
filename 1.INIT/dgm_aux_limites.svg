@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="Arial" font-size="13" width="423" height="451">
+	<desc>UML diagram model</desc>
+	<g id="_rxA24-ofEeaowdqlt8Dqsg">
+		<defs>
+			<linearGradient id="greyGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EEEEEE" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="packageGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EFE9DE" stop-opacity="0.4" />
+				
+			</linearGradient>
+			<linearGradient id="executionSpecificationGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EFE9DE" stop-opacity="1" />
+				
+			</linearGradient>
+			
+		</defs>
+		<g id="_bamxYMxYEDSliYRvrgIfZg">
+			<ellipse cx="70" cy="177" rx="6" ry="6" fill="#FFF" stroke="#888" stroke-width="2.0" />
+			<line x1="70" y1="183" x2="70" y2="214" stroke-width="2.0" stroke="#888" />
+			<line x1="56" y1="195" x2="84" y2="195" stroke-width="2.0" stroke="#888" />
+			<line x1="70" y1="214" x2="59" y2="232" stroke-width="2.0" stroke="#888" />
+			<line x1="70" y1="214" x2="80" y2="232" stroke-width="2.0" stroke="#888" />
+			<text x="70" y="234" text-anchor="middle" font-style="normal" font-weight="normal" fill="black">
+				<tspan x="70" text-anchor="middle" dy="13">Etudiants</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_cmri8MxYEDSliYRvrgIfZg">
+			<ellipse cx="283" cy="28" rx="6" ry="6" fill="#FFF" stroke="#888" stroke-width="2.0" />
+			<line x1="283" y1="34" x2="283" y2="65" stroke-width="2.0" stroke="#888" />
+			<line x1="269" y1="46" x2="297" y2="46" stroke-width="2.0" stroke="#888" />
+			<line x1="283" y1="65" x2="272" y2="83" stroke-width="2.0" stroke="#888" />
+			<line x1="283" y1="65" x2="293" y2="83" stroke-width="2.0" stroke="#888" />
+			<text x="283" y="85" text-anchor="middle" font-style="normal" font-weight="normal" fill="black">
+				<tspan x="283" text-anchor="middle" dy="13">Professeurs</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_f-fMQMxYEDSliYRvrgIfZg">
+			<ellipse cx="283" cy="329" rx="6" ry="6" fill="#FFF" stroke="#888" stroke-width="2.0" />
+			<line x1="283" y1="335" x2="283" y2="366" stroke-width="2.0" stroke="#888" />
+			<line x1="269" y1="347" x2="297" y2="347" stroke-width="2.0" stroke="#888" />
+			<line x1="283" y1="366" x2="272" y2="384" stroke-width="2.0" stroke="#888" />
+			<line x1="283" y1="366" x2="293" y2="384" stroke-width="2.0" stroke="#888" />
+			<text x="283" y="386" text-anchor="middle" font-style="normal" font-weight="normal" fill="black">
+				<tspan x="283" text-anchor="middle" dy="13">Administration</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_qYWGkMxZEDSliYRvrgIfZg">
+			<ellipse cx="283" cy="209" rx="90" ry="55" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1.0" />
+			<g transform="translate(193,196.0)">
+				<text x="90" y="0" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">
+					<tspan x="90" text-anchor="middle" dy="13">Centraliser les outils</tspan>
+					<tspan x="90" text-anchor="middle" dy="13">numériques de l&apos;INSA</tspan>
+					
+				</text>
+				
+			</g>
+			
+		</g>
+		<g id="_LluRcMxaEDSliYRvrgIfZg">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="90,209 193,209" />
+			
+		</g>
+		<g id="_Mzg6QMxaEDSliYRvrgIfZg">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="283,100 283,154" />
+			
+		</g>
+		<g id="_OBvn8MxaEDSliYRvrgIfZg">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="283,321 283,264" />
+			
+		</g>
+		
+	</g>
+	
+</svg>
